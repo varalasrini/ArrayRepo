@@ -9,6 +9,7 @@ public class SingleDimensions {
 		a[3]=44;
 		a[4]=55;
 		a[5]=66;
+		System.out.println("this is my first git");
 		
 		System.out.println(a[4]);
 		
